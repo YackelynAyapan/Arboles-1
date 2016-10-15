@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\bin\Debug\Arboles prueba 2.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\obj\Debug\Arboles prueba 2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\obj\Debug\Arboles prueba 2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\bin\Debug\Arboles prueba 2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\bin\Debug\Arboles prueba 2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Arboles prueba 2\Arboles prueba 2\obj\Debug\Cantidad1.csprojResolveAssemblyReference.cache

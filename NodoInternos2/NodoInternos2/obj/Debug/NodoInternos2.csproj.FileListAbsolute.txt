@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\NodoInternos2\NodoInternos2\obj\Debug\NodoInternos2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\NodoInternos2\NodoInternos2\obj\Debug\NodoInternos2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\NodoInternos2\NodoInternos2\obj\Debug\NodoInternos2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\NodoInternos2\NodoInternos2\obj\Debug\NodoInternos2.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\NodoInternos2\NodoInternos2\bin\Debug\NodoInternos2.pdb

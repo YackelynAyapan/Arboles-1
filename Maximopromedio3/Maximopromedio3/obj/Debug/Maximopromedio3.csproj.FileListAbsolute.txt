@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\bin\Debug\Maximopromedio3.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 4\Estructuras logicas\Maximopromedio3\Maximopromedio3\obj\Debug\Maximopromedio3.csprojResolveAssemblyReference.cache
